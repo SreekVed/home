@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://hashirshoaeb.com/home",
+  "homepage": "http://sreekved.github.io",
   "version": "2.0.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Sreekar Vedula",
+    "email": "sreekar.vedula@gmail.com",
+    "url": "https://github.com/sreekved"
   },
   "dependencies": {
     "axios": "^0.19.2",
@@ -15,6 +15,7 @@
     "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
     "node-sass": "^4.14.1",
+    "npm": "^7.21.0",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-bootstrap": "^1.4.0",
